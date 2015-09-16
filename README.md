@@ -4,7 +4,7 @@ In [P], Paul shows that the rank of such a matrix (for homogeneous polynomials) 
 
 Dumnicki also shows in [D2] that the matrix we find has full rank if and only if there exists a degree-m polynomial with rational coefficients which vanishes at the exponent vectors of each allowed monomial.
 
-This project was done in collaboration with Dr. Stepan Paul of the Cal Poly Mathematics Department. We came together to work on this due to our intrigue for this Mathematical problem and its interesting implementation possibility in Java (or any programming language for that matter). 
+This project was done in collaboration with Dr. Stepan Paul of the Cal Poly Mathematics Department. We came together to work on this due to our intrigue in this Mathematical problem and its interesting implementation possibility in Java (or any programming language for that matter). 
 
 [D1] Marcin Dumnicki, Cutting diagram method for systems of plane curves with base points, Ann. Polon. Math. 90  (2007), no. 2, 131{143. MR 2289179 (2008d:4048)}
 
