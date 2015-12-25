@@ -46,8 +46,8 @@ public class Combinatorics
         int m = 0;
       
         if (k == 1) {
-        	a[0][0] = n;
-        	return a;
+            a[0][0] = n;
+            return a;
         }
         
         for (int i = 0; i < n; i++) {
