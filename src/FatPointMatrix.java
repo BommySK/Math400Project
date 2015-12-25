@@ -1,6 +1,6 @@
-import java.util.Arrays;
 import Jama.Matrix;
 import javax.swing.JOptionPane;
+import java.util.Arrays;
 
 public class FatPointMatrix {
 	private double[][] partials;
